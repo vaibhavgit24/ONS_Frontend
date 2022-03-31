@@ -1,0 +1,13 @@
+echo "# ONS_Frontend" >> README.md
+git init
+git add .
+git remote add origin https://github.com/vaibhavgit24/ONS_Frontend.git
+git commit -m "first commit"
+git push -f origin main
+
+
+git remote add origin https://github.com/vaibhavgit24/ONS_Frontend.git
+git branch -M main
+git push -u origin main
+
+
